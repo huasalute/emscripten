@@ -3,7 +3,7 @@ Language: Cpp
 BasedOnStyle: LLVM
 PointerAlignment: Left
 IndentCaseLabels: true
-ContinuationIndentWidth: 3
+ContinuationIndentWidth: 2
 ConstructorInitializerIndentWidth: 2
 SpaceAfterTemplateKeyword: false
 BinPackArguments: false
